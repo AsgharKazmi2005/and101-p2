@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/AsgharKazmi2005/and101-p2/blob/main/AND101P2.gif)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://raw.githubusercontent.com/AsgharKazmi2005/and101-p2/refs/heads/main/AND101P2.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with Screentogif
 
